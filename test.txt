@@ -1,0 +1,31 @@
+MDP VM
+id/student
+mdp/par dessus les nuages
+
+Clef ssh: (une sorte de mdp entre le cloud ghitub et le pc )
+
+Commande github
+
+commande cat cat ~/.ssh/id_ed25519.pub affiche le contenue du fichier 
+
+GIT CLONE envoie de fuchier de ghitub au pc
+git status / statut du fichier entre github et pc 
+git add valider la modif du fichier entre github et pc
+git commit enregistrement/ -m =demande a la commande "readfme completede"
+Commande git push pour envoyer de la commande a github
+git log historique des envois 
+
+Chemin absolue : FICHIER DIRECT A LA RACINE
+CHEMIN RELATIF : selon le fichier ou se trouve (par aupositionement, emplacement du fichier)
+
+
+COMMANDE 
+
+Commande : CD: NAVIGUER DANS LES DOSSIER 
+LS : AFFICHER DIFFERENT FICHIER 
+Mkdir pour cree repertoir ou dossier 
+touch creation de fichier exempl html.txt
+cd .. revenir en arriere 
+rm (remouv) supression de fichier ou dossier 
+supprimer de force un fichier/ rm -f nomDuFichier
+Mv mouv deplacement de fichier 
